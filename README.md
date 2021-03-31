@@ -1,2 +1,2 @@
 # c2021ML
-Project for ML course 2021
+This project is part of a course at JTH in Machine Learning spring 2021.
